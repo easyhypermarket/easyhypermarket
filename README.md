@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Here We Made Super Cool Stuff.
+
 <!--
 **easyhypermarket/easyhypermarket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
